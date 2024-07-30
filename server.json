@@ -14,7 +14,15 @@
         "type": "outcome",
         "category": "Alimentação",
         "price": 50,
-        "createdAt": "2024-07-29T19:30:44.505Z"
+        "createdAt": "2024-07-30T19:30:44.505Z"
+      },
+      {
+        "id": 3,
+        "description": "Vasco",
+        "type": "outcome",
+        "category": "time",
+        "price": 201,
+        "createdAt": "2024-07-30T19:24:44.505Z"
       }
     ]
   }
